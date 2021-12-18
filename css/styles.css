@@ -1,0 +1,19 @@
+body {
+  background: chocolate;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  color: chocolate;
+}
+
+p a {
+  color: chocolate;
+}
+
+.link {
+  color: coral;
+}
